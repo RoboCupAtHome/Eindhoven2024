@@ -88,7 +88,7 @@ SSPL
 | 20:00 |                     | Poster Reception    |                     |                           |                                     |                |
 ### Testslots & Robot Inspection
 
-#### DSPL
+#### Arena A (DSPL)
 
 |#|Testslot#1 (Arena A), 7/16/24 10:00|League|#|Testslot#2 (Arena A), 7/16/24 13:00|League|#|Testslot#3 (Arena A), 7/16/24 17:00|League|#|Testslot#4 (Arena A), 7/17/24 10:00|League|#|Robot Inspection (Arena A), 7/17/24 16:00|League|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
