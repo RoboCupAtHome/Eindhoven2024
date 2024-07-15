@@ -124,15 +124,15 @@ Announce location for Poster.
 ### Receptionist
 ![](maps/stage_one/map_receptionist.png)
 
-Announce host's favorite drink
-Announce host's name
+Host's favorite drink: Milk
+Host's name: John
 
 ### Storing Groceries
 ![](maps/stage_one/map_storing_groceries.png)
 
-Announce which table will be used
+Dinner table will be used as table
 
-Announce what will be used as cabinet
+Kitchen cabinet will be used as cabinet
 
 ### Carry my Luggage
 ![](maps/stage_one/map_carry_my_luggage.png)
