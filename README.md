@@ -86,6 +86,20 @@ SSPL
 | 18:00 |  Testslot #3        |                     |                     |                           |                                     |                |
 | 19:00 | Team-Leader Meeting | Team-Leader Meeting | Team-Leader Meeting | Team-Leader Meeting       |                                     |                |
 | 20:00 |                     | Poster Reception    |                     |                           |                                     |                |
+### Testslots & Robot Inspection
+
+#### Arena A (DSPL)
+
+|#|Testslot#1 (Arena A), 7/16/24 10:00|League|#|Testslot#2 (Arena A), 7/16/24 13:00|League|#|Testslot#3 (Arena A), 7/16/24 17:00|League|#|Testslot#4 (Arena A), 7/17/24 10:00|League|#|Robot Inspection (Arena A), 7/17/24 16:00|League|
+|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
+|1|Tidyboy-DSPL|DSPL|1|Tidyboy-DSPL|DSPL|1|Hibikino-Musashi@Home|DSPL|1|Hibikino-Musashi@Home|DSPL|1|Hibikino-Musashi@Home|DSPL|
+|2|eR@sers|DSPL|2|eR@sers|DSPL|2|Tidyboy-DSPL|DSPL|2|Tidyboy-DSPL|DSPL|2|Tidyboy-DSPL|DSPL|
+|3|RoboCanes-VISAGE|DSPL|3|RoboCanes-VISAGE|DSPL|3|SUTURO-VaB|DSPL|3|SUTURO-VaB|DSPL|3|SUTURO-VaB|DSPL|
+|4|Hibikino-Musashi@Home|DSPL|4|Hibikino-Musashi@Home|DSPL|4|eR@sers|DSPL|4|eR@sers|DSPL|4|eR@sers|DSPL|
+|5|TU/e|DSPL|5|TU/e|DSPL|5|RoboCanes-VISAGE|DSPL|5|RoboCanes-VISAGE|DSPL|5|RoboCanes-VISAGE|DSPL|
+|6|rUNSWeep|DSPL|6|rUNSWeep|DSPL|6|TU/e|DSPL|6|TU/e|DSPL|6|TU/e|DSPL|
+|7|SUTURO-VaB|DSPL|7|SUTURO-VaB|DSPL|7|TRAIL|DSPL|7|TRAIL|DSPL|7|TRAIL|DSPL|
+|8|TRAIL|DSPL|8|TRAIL|DSPL|8|rUNSWeep|DSPL|8|rUNSWeep|DSPL|8|rUNSWeep|DSPL|
 
 ## Arenas
 
