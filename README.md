@@ -117,6 +117,22 @@ SSPL
 |10|NimbRo@Home|OPL|10|Pumas|OPL|10|RoBorregos|OPL|10|LyonTech|OPL|10|LyonTech|OPL|
 |11|Gentlebots|OPL|11|||11|||11|SCC (Serious Cybernetcis Corporation)|OPL|11|SCC (Serious Cybernetcis Corporation)|OPL|
 
+#### Arena C (OPL + SSPL)
+
+|#|Testslot#1 (Arena C), 7/16/24 10:00|League|#|Testslot#2 (Arena C), 7/16/24 13:00|League|#|Testslot#3 (Arena C), 7/16/24 17:00|League|#|Testslot#4 (Arena C), 7/17/24 10:00|League|#|Robot Inspection (Arena C), 7/17/24 16:00|League|
+|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
+|1|RoBorregos|OPL|1|SKUBA|SSPL|1|SKUBA|SSPL|1|LCASTOR|OPL|1|LCASTOR|OPL|
+|2|LASR|OPL|2|KIARO|SSPL|2|SinfonIA|SSPL|2|Tinker|OPL|2|Tinker|OPL|
+|3|ToBI (Team of Bielefeld)|OPL|3|SinfonIA|SSPL|3|KIARO|SSPL|3|LAR@Home|OPL|3|LAR@Home|OPL|
+|4|SCC (Serious Cybernetcis Corporation)|OPL|4|SOBITS|OPL|4|Gentlebots|OPL|4|SocRob@Home|OPL|4|SocRob@Home|OPL|
+|5|Tidyboy-OPL|OPL|5|Tinker|OPL|5|Chief Scientist Office|OPL|5|EPFL@Home|OPL|5|EPFL@Home|OPL|
+|6|Chief Scientist Office|OPL|6|LyonTech|OPL|6|FBOT@Home|OPL|6|SOBITS|OPL|6|SOBITS|OPL|
+|7|FBOT@Home|OPL|7|SocRob@Home|OPL|7|LASR|OPL|7|Tidyboy-OPL|OPL|7|Tidyboy-OPL|OPL|
+|8|LCASTOR|OPL|8|EPFL@Home|OPL|8|Pumas|OPL|8|RoboFEI|OPL|8|RoboFEI|OPL|
+|9|LAR@Home|OPL|9|RoboFEI|OPL|9|ToBI (Team of Bielefeld)|OPL|9|NimbRo@Home|OPL|9|NimbRo@Home|OPL|
+|10|Pumas|OPL|10|NimbRo@Home|OPL|10|LyonTech|OPL|10|RoBorregos|OPL|10|RoBorregos|OPL|
+|11|||11|Gentlebots|OPL|11|SCC (Serious Cybernetcis Corporation)|OPL|11|||11|||
+
 ## Arenas
 
 ![arena_map](maps/arena.png)
