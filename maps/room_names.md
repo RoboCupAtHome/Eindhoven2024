@@ -1,10 +1,10 @@
 ## Rooms
 | Name  | 
 | ------------ |  
-| bedroom | 
-| kitchen | 
+| hallway | 
 | office | 
+| kitchen | 
 | living room | 
-| bathroom | 
+
 
 

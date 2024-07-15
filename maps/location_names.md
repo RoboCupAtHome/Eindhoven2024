@@ -1,30 +1,22 @@
 ## Locations
 | Number | Name  | Object Category
 | ------------ | ----------- | ----------- |
-| 1 | bed (p) |
-| 2 | bedside table (p) |
-| 3 | shelf (p) | cleaning supplies |
-| 4 | trashbin |
-| 5 | dishwasher (p) |
-| 6 | potted plant |
-| 7 | kitchen table (p) | dishes |
-| 8 | chairs |
-| 9 | pantry (p) | food |
-| 10 | refrigerator (p) |
-| 11 | sink (p) |
-| 12 | cabinet (p) | drinks |
-| 13 | coatrack |
-| 14 | desk (p) | fruits |
-| 15 | armchair |
-| 16 | desk lamp |
-| 17 | waste basket |
-| 18 | tv stand (p) |
-| 19 | storage rack (p) |
-| 20 | lamp |
-| 21 | side tables (p) | snacks |
-| 22 | sofa (p) |
-| 23 | bookshelf (p) | toys |
-| 24 | entrance |
-| 25 | exit |
+| 1 | hallway cabinet (p) |
+| 2 | entrance |
+| 3 | desk (p) | decorations |
+| 4 | shelf (p) | cleaning supplies |
+| 5 | coathanger |
+| 6 | exit |
+| 7 | TV table (p) | toys |
+| 8 | lounge chair |
+| 9 | lamp |
+| 10 | couch |
+| 11 | coffee table (p) | fruits |
+| 12 | trashcan | 
+| 13 | kitchen cabinet (p) | drinks |
+| 14 | dinner table (p) | snacks |
+| 15 | dishwasher (p) | dishes |
+| 16 | kitchen counter (p) | food |
+
 
 (p) indicated whether objects can be placed at the location
