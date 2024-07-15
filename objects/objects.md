@@ -27,11 +27,10 @@
 :-------------------------:|:-------------------------:
 | cornflakes  |  ![](known_objects/food/cornflakes.jpg) |
 | pea_soup  |  ![](known_objects/food/pea_soup.jpg) |
-| hagelslag1  |  ![](known_objects/food/hagelslag1.jpg) |
 | curry  |  ![](known_objects/food/curry.jpg) |
 | pancake_mix  |  ![](known_objects/food/pancake_mix.jpg) |
+| hagelslag  |  ![](known_objects/food/hagelslag.jpg) |
 | sausages  |  ![](known_objects/food/sausages.jpg) |
-| hagelslag2  |  ![](known_objects/food/hagelslag2.jpg) |
 | mayonaise  |  ![](known_objects/food/mayonaise.jpg) |
 
 
@@ -61,13 +60,11 @@
 | Objectname               |  Image                   |
 :-------------------------:|:-------------------------:
 | stroopwafel  |  ![](known_objects/snacks/stroopwafel.jpg) |
-| crisps1  |  ![](known_objects/snacks/crisps1.jpg) |
 | candy  |  ![](known_objects/snacks/candy.jpg) |
+| liquorice  |  ![](known_objects/snacks/liquorice.jpg) |
+| crisps  |  ![](known_objects/snacks/crisps.jpg) |
 | pringles  |  ![](known_objects/snacks/pringles.jpg) |
 | tictac  |  ![](known_objects/snacks/tictac.jpg) |
-| crisps2  |  ![](known_objects/snacks/crisps2.jpg) |
-| liquorice1  |  ![](known_objects/snacks/liquorice1.jpg) |
-| liquorice2  |  ![](known_objects/snacks/liquorice2.jpg) |
 
 
 # Class dishes
