@@ -72,20 +72,20 @@ SSPL
 
 ## Schedule
 
-|       | Wed July 17         | Thu July 18         | Fri July 19               | Sat July 20                         | Sun July 21    |
-| ----- | ------------------- | ------------------- | ------------------------- | ----------------------------------- | -------------- |
-| 09:00 |                     |                     | Serve Breakfast           | Restaurant (all teams present 8:30) |                |
-| 10:00 |                     | Carry my Luggage    | Serve Breakfast           | Restaurant                          | Open challenge |
-| 11:00 |                     | Carry my Luggage    |                           | Restaurant                          |                |
-| 12:00 |                     |                     | GPSR                      |                                     | Final          |
-| 13:00 |                     | Receptionist        | GPSR                      | Stickler for the Rules              | Final          |
-| 14:00 |                     | Receptionist        | announcement second stage | Stickler for the Rules              |                |
-| 15:00 | Opening Ceremony    |                     |                           |                                     |                |
-| 16:00 |                     | Storing Groceries   | Clean the Table           | EGPSR                               |                |
-| 17:00 | Robot Inspection    | Storing Groceries   | Clean the Table           | EGPSR                               |                |
-| 18:00 |                     |                     |                           |                                     |                |
-| 19:00 | Team-Leader Meeting | Team-Leader Meeting | Team-Leader Meeting       |                                     |                |
-| 20:00 | Poster Reception    |                     |                           |                                     |                |
+|       | Tue July 16         | Wed July 17         | Thu July 18         | Fri July 19               | Sat July 20                         | Sun July 21    |
+| ----- | ------------------- |-------------------- | ------------------- | ------------------------- | ----------------------------------- | -------------- |
+| 09:00 |                     |                     |                     | Serve Breakfast           | Restaurant (all teams present 8:30) |                |
+| 10:00 |  Testslot #1        | Testslot #4         | Carry my Luggage    | Serve Breakfast           | Restaurant                          | Open challenge |
+| 11:00 |  Testslot #1        | Testslot #4         | Carry my Luggage    |                           | Restaurant                          |                |
+| 12:00 |                     |                     |                     | GPSR                      |                                     | Final          |
+| 13:00 |  Testslot #2        |                     | Receptionist        | GPSR                      | Stickler for the Rules              | Final          |
+| 14:00 |  Testslot #2        |                     | Receptionist        | announcement second stage | Stickler for the Rules              |                |
+| 15:00 |                     | Opening Ceremony    |                     |                           |                                     |                |
+| 16:00 |                     |                     | Storing Groceries   | Clean the Table           | EGPSR                               |                |
+| 17:00 |  Testslot #3        | Robot Inspection    | Storing Groceries   | Clean the Table           | EGPSR                               |                |
+| 18:00 |  Testslot #3        |                     |                     |                           |                                     |                |
+| 19:00 | Team-Leader Meeting | Team-Leader Meeting | Team-Leader Meeting | Team-Leader Meeting       |                                     |                |
+| 20:00 |                     | Poster Reception    |                     |                           |                                     |                |
 
 ## Arenas
 
