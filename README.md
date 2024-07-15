@@ -137,9 +137,6 @@ Kitchen cabinet will be used as cabinet
 ### Carry my Luggage
 ![](maps/stage_one/map_carry_my_luggage.png)
 
-### Serve Breakfast
-![](maps/stage_one/map_serve_breakfast.png)
-
 ### GPSR
 ![](maps/stage_one/map_gpsr.png)
 
@@ -150,8 +147,4 @@ Kitchen cabinet will be used as cabinet
 
 ### Stickler for the Rules
 ![](maps/stage_two/map_stickler_for_the_rules.png)
-
-### EGPSR
-![](maps/stage_two/map_egpsr.png)
-
 
