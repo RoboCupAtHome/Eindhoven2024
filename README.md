@@ -1,5 +1,7 @@
 # Eindhoven2024
 
+Join the Eindhoven 2024 Telegram group for quick announcements: https://t.me/+_BQlsF5p6LQ0MzZh
+
 ## Table of Contents
 
 - [Scores](#scores)
