@@ -95,11 +95,12 @@ SSPL
 |1|Tidyboy-DSPL|DSPL|1|Tidyboy-DSPL|DSPL|1|Hibikino-Musashi@Home|DSPL|1|Hibikino-Musashi@Home|DSPL|1|Hibikino-Musashi@Home|DSPL|
 |2|eR@sers|DSPL|2|eR@sers|DSPL|2|Tidyboy-DSPL|DSPL|2|Tidyboy-DSPL|DSPL|2|Tidyboy-DSPL|DSPL|
 |3|RoboCanes-VISAGE|DSPL|3|RoboCanes-VISAGE|DSPL|3|SUTURO-VaB|DSPL|3|SUTURO-VaB|DSPL|3|SUTURO-VaB|DSPL|
-|4|Hibikino-Musashi@Home|DSPL|4|Hibikino-Musashi@Home|DSPL|4|eR@sers|DSPL|4|eR@sers|DSPL|4|eR@sers|DSPL|
-|5|TU/e|DSPL|5|TU/e|DSPL|5|RoboCanes-VISAGE|DSPL|5|RoboCanes-VISAGE|DSPL|5|RoboCanes-VISAGE|DSPL|
-|6|rUNSWeep|DSPL|6|rUNSWeep|DSPL|6|TU/e|DSPL|6|TU/e|DSPL|6|TU/e|DSPL|
-|7|SUTURO-VaB|DSPL|7|SUTURO-VaB|DSPL|7|TRAIL|DSPL|7|TRAIL|DSPL|7|TRAIL|DSPL|
-|8|TRAIL|DSPL|8|TRAIL|DSPL|8|rUNSWeep|DSPL|8|rUNSWeep|DSPL|8|rUNSWeep|DSPL|
+|4|UT Austin Villa@Home|DSPL|4|UT Austin Villa@Home|DSPL|4|eR@sers|DSPL|4|eR@sers|DSPL|4|eR@sers|DSPL|
+|5|Hibikino-Musashi@Home|DSPL|5|Hibikino-Musashi@Home|DSPL|5|RoboCanes-VISAGE|DSPL|5|RoboCanes-VISAGE|DSPL|5|RoboCanes-VISAGE|DSPL|
+|6|TU/e|DSPL|6|TU/e|DSPL|6|TU/e|DSPL|6|TU/e|DSPL|6|TU/e|DSPL|
+|7|rUNSWeep|DSPL|7|rUNSWeep|DSPL|7|TRAIL|DSPL|7|TRAIL|DSPL|7|TRAIL|DSPL|
+|8|SUTURO-VaB|DSPL|8|SUTURO-VaB|DSPL|8|rUNSWeep|DSPL|8|rUNSWeep|DSPL|8|rUNSWeep|DSPL|
+|9|TRAIL|DSPL|9|TRAIL|DSPL|9|UT Austin Villa@Home|DSPL|9|UT Austin Villa@Home|DSPL|9|UT Austin Villa@Home|DSPL|
 
 #### Arena B (SSPL + OPL)
 
