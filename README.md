@@ -87,6 +87,7 @@ SSPL
 
 ## Arenas
 
+![arena_map](maps/arena.png)
 ![league area map](maps/league_area_map.png)
 
 ## Robot Inspection and Poster Session
