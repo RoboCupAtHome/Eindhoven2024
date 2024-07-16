@@ -112,7 +112,7 @@ SSPL
 
 ### Receptionist, Thu July 18, 13:00
 
-|#|Receptionist (Arena A)|League|#|Receptionist (Arena B)|League|#|Receptionist (Arena C)|League|
+|#|Receptionist (Arena A)|League|#|Receptionist (Arena B,C)|League|#|Receptionist (Arena C,B)|League|
 |-|-|-|-|-|-|-|-|-|
 |1|SUTURO-VaB|DSPL|1|SinfonIA|SSPL|1|Gentlebots|OPL|
 |2|eR@sers|DSPL|2|SKUBA|SSPL|2|Tidyboy-OPL|OPL|
@@ -128,7 +128,7 @@ SSPL
 
 ### Storing Groceries, Thu July 18, 16:00
 
-|#|Storing Groceries (Arena A)|League|#|Storing Groceries (Arena B)|League|#|Storing Groceries (Arena C)|League|
+|#|Storing Groceries (Arena A)|League|#|Storing Groceries (Arena B,C)|League|#|Storing Groceries (Arena C,B)|League|
 |-|-|-|-|-|-|-|-|-|
 |1|RoboCanes-VISAGE|DSPL|1|KIARO|SSPL|1|NimbRo@Home|OPL|
 |2|UT Austin Villa@Home|DSPL|2|SinfonIA|SSPL|2|SocRob@Home|OPL|
@@ -144,7 +144,7 @@ SSPL
 
 ### Serve Breakfast, Fri July 19, 09:00 
 
-|#|Serve Breakfast (Arena A)|League|#|Serve Breakfast (Arena B)|League|#|Serve Breakfast (Arena C)|League|
+|#|Serve Breakfast (Arena A)|League|#|Serve Breakfast (Arena B,C)|League|#|Serve Breakfast (Arena C,B)|League|
 |-|-|-|-|-|-|-|-|-|
 |1|UT Austin Villa@Home|DSPL|1|SKUBA|SSPL|1|Pumas|OPL|
 |2|rUNSWeep|DSPL|2|KIARO|SSPL|2|Tinker|OPL|
@@ -160,7 +160,7 @@ SSPL
 
 ### General Purpose Service Robot (GPSR), Fri July 12:00
 
-|#|GPSR|League|#|GPSR|League|#|GPSR|League|
+|#|GPSR (Arena A)|League|#|GPSR (Arena B,C)|League|#|GPSR (Arena C,B)|League|
 |-|-|-|-|-|-|-|-|-|
 |1|TRAIL|DSPL|1|SinfonIA|SSPL|1|Chief Scientist Office|OPL|
 |2|rUNSWeep|DSPL|2|KIARO|SSPL|2|EPFL@Home|OPL|
