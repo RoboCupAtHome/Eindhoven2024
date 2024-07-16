@@ -74,7 +74,7 @@ SSPL
 
 |       | Tue July 16         | Wed July 17         | Thu July 18         | Fri July 19               | Sat July 20                         | Sun July 21    |
 | ----- | ------------------- |-------------------- | ------------------- | ------------------------- | ----------------------------------- | -------------- |
-| 09:00 |                     |                     |                     | Serve Breakfast           | Restaurant (all teams present 8:30) |                |
+| 09:00 |                     |                     | Carry my Luggage    | Serve Breakfast           | Restaurant (all teams present 8:30) |                |
 | 10:00 |  Testslot #1        | Testslot #4         | Carry my Luggage    | Serve Breakfast           | Restaurant                          | Open challenge |
 | 11:00 |  Testslot #1        | Testslot #4         | Carry my Luggage    |                           | Restaurant                          |                |
 | 12:00 |                     |                     |                     | GPSR                      |                                     | Final          |
