@@ -126,6 +126,21 @@ SSPL
 ||||10|LAR@Home|OPL|10|EPFL@Home|OPL|
 ||||11|RoBorregos|OPL||||
 
+### Storing Groceries, Thu July 18, 16:00
+
+|#|Storing Groceries (Arena A)|League|#|Storing Groceries (Arena B)|League|#|Storing Groceries (Arena C)|League|
+|-|-|-|-|-|-|-|-|-|
+|1|RoboCanes-VISAGE|DSPL|1|KIARO|SSPL|1|NimbRo@Home|OPL|
+|2|UT Austin Villa@Home|DSPL|2|SinfonIA|SSPL|2|SocRob@Home|OPL|
+|3|SUTURO-VaB|DSPL|3|SKUBA|SSPL|3|Tidyboy-OPL|OPL|
+|4|Tidyboy-DSPL|DSPL|4|LyonTech|OPL|4|ToBI (Team of Bielefeld)|OPL|
+|5|TU/e|DSPL|5|RoboFEI|OPL|5|SOBITS|OPL|
+|6|TRAIL|DSPL|6|LAR@Home|OPL|6|SCC (Serious Cybernetcis Corporation)|OPL|
+|7|rUNSWeep|DSPL|7|Tinker|OPL|7|EPFL@Home|OPL|
+|8|eR@sers|DSPL|8|RoBorregos|OPL|8|Chief Scientist Office|OPL|
+|9|Hibikino-Musashi@Home|DSPL|9|Gentlebots|OPL|9|FBOT@Home|OPL|
+||||10|LCASTOR|OPL|10|LASR|OPL|
+||||11|Pumas|OPL||||
 
 ### Testslots & Robot Inspection
 
