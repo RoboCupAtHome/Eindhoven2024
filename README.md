@@ -86,6 +86,30 @@ SSPL
 | 18:00 |  Testslot #3        | Robot Inspection + Poster presentations    |                     |                           |                                     |                |
 | 19:00 | Team-Leader Meeting | 19:30 Team-Leader Meeting | Team-Leader Meeting | Team-Leader Meeting       |                                     |                |
 | 20:00 |                     | Poster Reception    |                     |                           |                                     |                |
+
+### Carry my Luggage, Thu July 17, 9:00 (outside arena, teams start in two groups)
+
+|#|Carry My Luggage |League|#|Carry My Luggage |League|
+|-|-|-|-|-|-|
+|1|RoBorregos|OPL|1|SKUBA|SSPL|
+|2|LASR|OPL|2|KIARO|SSPL|
+|3|ToBI (Team of Bielefeld)|OPL|3|SinfonIA|SSPL|
+|4|SCC (Serious Cybernetcis Corporation)|OPL|4|Tidyboy-DSPL|DSPL|
+|5|Tidyboy-OPL|OPL|5|eR@sers|DSPL|
+|6|Chief Scientist Office|OPL|6|RoboCanes-VISAGE|DSPL|
+|7|FBOT@Home|OPL|7|UT Austin Villa@Home|DSPL|
+|8|LCASTOR|OPL|8|Hibikino-Musashi@Home|DSPL|
+|9|LAR@Home|OPL|9|TU/e|DSPL|
+|10|Pumas|OPL|10|rUNSWeep|DSPL|
+|11|SOBITS|OPL|11|SUTURO-VaB|DSPL|
+|12|Tinker|OPL|12|TRAIL|DSPL|
+|13|LyonTech|OPL||||
+|14|SocRob@Home|OPL||||
+|15|EPFL@Home|OPL||||
+|16|RoboFEI|OPL||||
+|17|NimbRo@Home|OPL||||
+|18|Gentlebots|OPL||||
+
 ### Testslots & Robot Inspection
 
 #### Arena A (DSPL)
