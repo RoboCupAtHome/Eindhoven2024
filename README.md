@@ -82,8 +82,8 @@ SSPL
 | 14:00 |  Testslot #2        |                     | Receptionist        | announcement second stage | Stickler for the Rules              |                |
 | 15:00 |                     | Opening Ceremony    |                     |                           |                                     |                |
 | 16:00 |                     |                     | Storing Groceries   | Clean the Table           | EGPSR                               |                |
-| 17:00 |  Testslot #3        | Robot Inspection    | Storing Groceries   | Clean the Table           | EGPSR                               |                |
-| 18:00 |  Testslot #3        |                     |                     |                           |                                     |                |
+| 17:00 |  Testslot #3        | Robot Inspection + Poster presentations    | Storing Groceries   | Clean the Table           | EGPSR                               |                |
+| 18:00 |  Testslot #3        | Robot Inspection + Poster presentations    |                     |                           |                                     |                |
 | 19:00 | Team-Leader Meeting | Team-Leader Meeting | Team-Leader Meeting | Team-Leader Meeting       |                                     |                |
 | 20:00 |                     | Poster Reception    |                     |                           |                                     |                |
 ### Testslots & Robot Inspection
