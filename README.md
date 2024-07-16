@@ -110,6 +110,23 @@ SSPL
 |17|NimbRo@Home|OPL||||
 |18|Gentlebots|OPL||||
 
+### Receptionist, Thu July 18, 13:00
+
+|#|Receptionist (Arena A)|League|#|Receptionist (Arena B)|League|#|Receptionist (Arena C)|League|
+|-|-|-|-|-|-|-|-|-|
+|1|SUTURO-VaB|DSPL|1|SinfonIA|SSPL|1|Gentlebots|OPL|
+|2|eR@sers|DSPL|2|SKUBA|SSPL|2|Tidyboy-OPL|OPL|
+|3|RoboCanes-VISAGE|DSPL|3|KIARO|SSPL|3|LyonTech|OPL|
+|4|Tidyboy-DSPL|DSPL|4|LASR|OPL|4|RoboFEI|OPL|
+|5|TU/e|DSPL|5|Tinker|OPL|5|Chief Scientist Office|OPL|
+|6|UT Austin Villa@Home|DSPL|6|Pumas|OPL|6|NimbRo@Home|OPL|
+|7|Hibikino-Musashi@Home|DSPL|7|LCASTOR|OPL|7|ToBI (Team of Bielefeld)|OPL|
+|8|rUNSWeep|DSPL|8|SCC (Serious Cybernetcis Corporation)|OPL|8|SocRob@Home|OPL|
+|9|TRAIL|DSPL|9|SOBITS|OPL|9|FBOT@Home|OPL|
+||||10|LAR@Home|OPL|10|EPFL@Home|OPL|
+||||11|RoBorregos|OPL||||
+
+
 ### Testslots & Robot Inspection
 
 #### Arena A (DSPL)
