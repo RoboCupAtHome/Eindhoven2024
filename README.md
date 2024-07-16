@@ -142,6 +142,22 @@ SSPL
 ||||10|LCASTOR|OPL|10|LASR|OPL|
 ||||11|Pumas|OPL||||
 
+### Serve Breakfast, Fri July 19, 09:00 
+
+|#|Serve Breakfast (Arena A)|League|#|Serve Breakfast (Arena B)|League|#|Serve Breakfast (Arena C)|League|
+|-|-|-|-|-|-|-|-|-|
+|1|UT Austin Villa@Home|DSPL|1|SKUBA|SSPL|1|Pumas|OPL|
+|2|rUNSWeep|DSPL|2|KIARO|SSPL|2|Tinker|OPL|
+|3|Tidyboy-DSPL|DSPL|3|SinfonIA|SSPL|3|ToBI (Team of Bielefeld)|OPL|
+|4|TU/e|DSPL|4|FBOT@Home|OPL|4|SOBITS|OPL|
+|5|RoboCanes-VISAGE|DSPL|5|SCC (Serious Cybernetcis Corporation)|OPL|5|LASR|OPL|
+|6|SUTURO-VaB|DSPL|6|RoBorregos|OPL|6|NimbRo@Home|OPL|
+|7|eR@sers|DSPL|7|LCASTOR|OPL|7|Tidyboy-OPL|OPL|
+|8|TRAIL|DSPL|8|SocRob@Home|OPL|8|Chief Scientist Office|OPL|
+|9|Hibikino-Musashi@Home|DSPL|9|Gentlebots|OPL|9|LAR@Home|OPL|
+||||10|LyonTech|OPL|10|EPFL@Home|OPL|
+||||11|RoboFEI|OPL||||
+
 ### Testslots & Robot Inspection
 
 #### Arena A (DSPL)
