@@ -90,7 +90,7 @@ SSPL
 
 #### Arena A (DSPL)
 
-|#|Testslot#1 (Arena A), 7/16/24 10:00|League|#|Testslot#2 (Arena A), 7/16/24 13:00|League|#|Testslot#3 (Arena A), 7/16/24 17:00|League|#|Testslot#4 (Arena A), 7/17/24 10:00|League|#|Robot Inspection (Arena A), 7/17/24 16:00|League|
+|#|Testslot#1 (Arena A), 7/16/24 10:00|League|#|Testslot#2 (Arena A), 7/16/24 13:00|League|#|Testslot#3 (Arena A), 7/16/24 17:00|League|#|Testslot#4 (Arena A), 7/17/24 10:00|League|#|Robot Inspection (Arena A), 7/17/24 17:00|League|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
 |1|Tidyboy-DSPL|DSPL|1|Tidyboy-DSPL|DSPL|1|Hibikino-Musashi@Home|DSPL|1|Hibikino-Musashi@Home|DSPL|1|Hibikino-Musashi@Home|DSPL|
 |2|eR@sers|DSPL|2|eR@sers|DSPL|2|Tidyboy-DSPL|DSPL|2|Tidyboy-DSPL|DSPL|2|Tidyboy-DSPL|DSPL|
@@ -104,7 +104,7 @@ SSPL
 
 #### Arena B (SSPL + OPL)
 
-|#|Testslot#1 (Arena B), 7/16/24 10:00|League|#|Testslot#2 (Arena B), 7/16/24 13:00|League|#|Testslot#3 (Arena B), 7/16/24 17:00|League|#|Testslot#4 (Arena B), 7/17/24 10:00|League|#|Robot Inspection (Arena B), 7/17/24 16:00|League|
+|#|Testslot#1 (Arena B), 7/16/24 10:00|League|#|Testslot#2 (Arena B), 7/16/24 13:00|League|#|Testslot#3 (Arena B), 7/16/24 17:00|League|#|Testslot#4 (Arena B), 7/17/24 10:00|League|#|Robot Inspection (Arena B), 7/17/24 17:00|League|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
 |1|SKUBA|SSPL|1|RoBorregos|OPL|1|LCASTOR|OPL|1|SKUBA|SSPL|1|SKUBA|SSPL|
 |2|KIARO|SSPL|2|LASR|OPL|2|Tinker|OPL|2|SinfonIA|SSPL|2|SinfonIA|SSPL|
@@ -120,7 +120,7 @@ SSPL
 
 #### Arena C (OPL + SSPL)
 
-|#|Testslot#1 (Arena C), 7/16/24 10:00|League|#|Testslot#2 (Arena C), 7/16/24 13:00|League|#|Testslot#3 (Arena C), 7/16/24 17:00|League|#|Testslot#4 (Arena C), 7/17/24 10:00|League|#|Robot Inspection (Arena C), 7/17/24 16:00|League|
+|#|Testslot#1 (Arena C), 7/16/24 10:00|League|#|Testslot#2 (Arena C), 7/16/24 13:00|League|#|Testslot#3 (Arena C), 7/16/24 17:00|League|#|Testslot#4 (Arena C), 7/17/24 10:00|League|#|Robot Inspection (Arena C), 7/17/24 17:00|League|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
 |1|RoBorregos|OPL|1|SKUBA|SSPL|1|SKUBA|SSPL|1|LCASTOR|OPL|1|LCASTOR|OPL|
 |2|LASR|OPL|2|KIARO|SSPL|2|SinfonIA|SSPL|2|Tinker|OPL|2|Tinker|OPL|
