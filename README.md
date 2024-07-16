@@ -158,6 +158,22 @@ SSPL
 ||||10|LyonTech|OPL|10|EPFL@Home|OPL|
 ||||11|RoboFEI|OPL||||
 
+### General Purpose Service Robot (GPSR), Fri July 12:00
+
+|#|GPSR|League|#|GPSR|League|#|GPSR|League|
+|-|-|-|-|-|-|-|-|-|
+|1|TRAIL|DSPL|1|SinfonIA|SSPL|1|Chief Scientist Office|OPL|
+|2|rUNSWeep|DSPL|2|KIARO|SSPL|2|EPFL@Home|OPL|
+|3|UT Austin Villa@Home|DSPL|3|SKUBA|SSPL|3|LAR@Home|OPL|
+|4|Tidyboy-DSPL|DSPL|4|SCC (Serious Cybernetcis Corporation)|OPL|4|Tidyboy-OPL|OPL|
+|5|RoboCanes-VISAGE|DSPL|5|NimbRo@Home|OPL|5|LyonTech|OPL|
+|6|Hibikino-Musashi@Home|DSPL|6|SocRob@Home|OPL|6|LCASTOR|OPL|
+|7|eR@sers|DSPL|7|FBOT@Home|OPL|7|RoBorregos|OPL|
+|8|SUTURO-VaB|DSPL|8|LASR|OPL|8|RoboFEI|OPL|
+|9|TU/e|DSPL|9|Gentlebots|OPL|9|Pumas|OPL|
+||||10|Tinker|OPL|10|SOBITS|OPL|
+||||11|ToBI (Team of Bielefeld)|OPL||||
+
 ### Testslots & Robot Inspection
 
 #### Arena A (DSPL)
