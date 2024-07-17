@@ -284,28 +284,31 @@ Kitchen cabinet will be used as cabinet
 ![](maps/stage_two/map_stickler_for_the_rules.png)
 
 
-| Task                   | Thu 9-12             | Thu 13-15      | Fri 12-14 | Sat 9-12   | Sat 13-15                | Sat 16-18 |
-|------------------------|----------------------|----------------|-----------|------------|--------------------------|-----------|
-|                        | Carry My Luggage     | Receptionist   | GPSR      | Restaurant | Stickler for the Rules   | EGPSR     |
-| SUTURO-VaB             | Arena C              |                | Arena B   | Restaurant |                          | Arena B   |
-| Hibikino-Musashi@Home  | Arena B              | Arena B        |           | Restaurant |                          | Arena C   |
-| Tidyboy-OPL            | Arena A              |                | Arena C   |            | Arena A                  |           |
-| Tidyboy-DSPL           | Arena B              |                | Arena B   |            |                          | Arena A   |
-| LASR                   | Arena C              |                | Arena A   |            | Arena C                  |           |
-| Pumas-OPL              | Arena B              |                | Arena A   |            | Arena A                  |           |
-| Tinker                 |                      | Arena A        |           | Restaurant |                          | Arena C   |
-| ToBi                   | Arena A              |                |           | Restaurant | Arena B                  |           |
-| TRAIL                  |                      |                | Arena C   |            | Arena B                  |           |
-| Gentlebots             | Arena C              |                |           | Restaurant |                          |           |
-| NimbRo                 |                      | Arena A        |           |            | Arena A                  |           |
-| SocRob                 | Arena A              |                |           |            | Arena C                  |           |
-| eRasers                |                      | Arena C        |           |            | Arena A                  |           |
-| Chief Scientist Office |                      | Arena B        |           |            | Arena C                  |           |
-| LCASTOR                |                      | Arena C        |           | Restaurant |                          |           |
-| LyonTech               |                      |                |           | Restaurant |                          | Arena A   |
-| KIARO                  |                      |                |           | Restaurant |                          | Arena V   |
-| FBOT                   |                      |                |           |            | Arena C                  |           |
-| LAR                    |                      |                |           |            | Arena B                  |           |
-| RoboFEI                |                      |                |           | Restaurant |                          |           |
-| SCC                    |                      |                |           |            | Arena B                  |           |
+## Volunteer Requirements
 
+Each team with 6+ members needs to supply some volunteer(s) for the tasks. Please make sure your volunteer (does not have to be a team member necessarily) is at the appointed location (see table) **10 minutes** before the specified task starts!
+
+|                            | Thu 9-12             | Thu 13-15        | Fr 12-14 | Sa 9-12        | Sa 13-15                   | Sa 16-18  |
+| -------------------------- | -------------------- | ---------------- | -------- | -------------- | -------------------------- | --------- |
+|                            | **Carry My Luggage** | **Receptionist** | **GPSR** | **Restaurant** | **Stickler for the Rules** | **EGPSR** |
+| **SUTURO-VaB**             | Arena C              |                  | Arena B  | Restaurant     |                            | Arena B   |
+| **Hibikino-Musashi@Home**  | Arena B              | Arena B          |          | Restaurant     |                            | Arena C   |
+| **Tidyboy-OPL**            | Arena A              |                  | Arena C  |                | Arena A                    |           |
+| **Tidyboy-DSPL**           | Arena B              |                  | Arena B  |                |                            | Arena A   |
+| **LASR**                   | Arena C              |                  | Arena A  |                | Arena C                    |           |
+| **Pumas-OPL**              | Arena B              |                  | Arena A  |                | Arena A                    |           |
+| **Tinker**                 |                      | Arena A          |          | Restaurant     |                            | Arena C   |
+| **ToBi**                   | Arena A              |                  |          | Restaurant     | Arena B                    |           |
+| **TRAIL**                  |                      |                  | Arena C  |                | Arena B                    |           |
+| **Gentlebots**             | Arena C              |                  |          | Restaurant     |                            |           |
+| **NimbRo**                 |                      | Arena A          |          |                | Arena A                    |           |
+| **SocRob**                 | Arena A              |                  |          |                | Arena C                    |           |
+| **eRasers**                |                      | Arena C          |          |                | Arena A                    |           |
+| **Chief Scientist Office** |                      | Arena B          |          |                | Arena C                    |           |
+| **LCASTOR**                |                      | Arena C          |          | Restaurant     |                            |           |
+| **LyonTech**               |                      |                  |          | Restaurant     |                            | Arena A   |
+| **KIARO**                  |                      |                  |          | Restaurant     |                            | Arena B   |
+| **FBOT**                   |                      |                  |          |                | Arena C                    |           |
+| **LAR**                    |                      |                  |          |                | Arena B                    |           |
+| **RoboFEI**                |                      |                  |          | Restaurant     |                            |           |
+| **SCC**                    |                      |                  |          |                | Arena B                    |           |
