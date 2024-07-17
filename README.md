@@ -222,6 +222,10 @@ SSPL
 |10|Pumas|OPL|10|NimbRo@Home|OPL|10|LyonTech|OPL|10|RoBorregos|OPL|10|RoBorregos|OPL|
 |11|||11|Gentlebots|OPL|11|SCC (Serious Cybernetcis Corporation)|OPL|11|||11|||
 
+#### Team Area Floorplan
+
+![team_area_floorplan](<teams/Robocup2024 Floorplan@Home.png>)
+
 ## Arenas
 
 ![arena_map](maps/arena.png)
