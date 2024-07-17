@@ -89,7 +89,7 @@ SSPL
 
 ### Carry my Luggage, Thu July 18, 9:00 (outside arena, teams start in two groups)
 
-|#|Carry My Luggage |League|#|Carry My Luggage |League|
+|#|Carry My Luggage (Starting Point B) |League|#|Carry My Luggage (Starting Point A) |League|
 |-|-|-|-|-|-|
 |1|RoBorregos|OPL|1|SKUBA|SSPL|
 |2|LASR|OPL|2|KIARO|SSPL|
