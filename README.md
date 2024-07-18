@@ -30,7 +30,6 @@ Join the Eindhoven 2024 Telegram group for quick announcements: https://t.me/+_B
 
 ### DSPL
 
-
 | Team Name             | Poster | Carry My Luggage | Receptionist | Storing Groceries | Serving Breakfast | GPSR | Stage 1 |
 | --------------------- | ------ | ---------------- | ------------ | ----------------- | ----------------- | ---- | ------- |
 | eR@sers               | 28.86  | 515              |              |                   |                   |      | 543.86  |
@@ -42,6 +41,29 @@ Join the Eindhoven 2024 Telegram group for quick announcements: https://t.me/+_B
 | Tidyboy-DSPL          | 32.17  | 115              |              |                   |                   |      | 147.17  |
 | TRAIL                 | 40     | 50               |              |                   |                   |      | 90      |
 | UT Austin Villa@Home  | 37.67  | 15               |              |                   |                   |      | 52.67   |
+
+### OPL
+
+| Team Name                             | Poster | Carry My Luggage | Receptionist | Storing Groceries | Serving Breakfast | GPSR | Stage 1 |
+| ------------------------------------- | ------ | ---------------- | ------------ | ----------------- | ----------------- | ---- | ------- |
+| Chief Scientist Office                | 28.41  | 615.00           |              |                   |                   |      | 643.41  |
+| EPFL@Home                             | 0.00   | 0.00             |              |                   |                   |      | 0.00    |
+| FBOT@Home                             | 33.91  | 15               |              |                   |                   |      | 48.91   |
+| Gentlebots                            | 32.81  | 465              |              |                   |                   |      | 497.81  |
+| LAR@Home                              | 34.09  | 15               |              |                   |                   |      | 49.09   |
+| LASR                                  | 32.86  | 165              |              |                   |                   |      | 197.86  |
+| LCASTOR                               | 28.7   | 450              |              |                   |                   |      | 478.70  |
+| LyonTech                              | 31.96  | 15               |              |                   |                   |      | 46.96   |
+| NimbRo@Home                           | 38.04  | 265              |              |                   |                   |      | 303.04  |
+| Pumas                                 | 32.83  | 15               |              |                   |                   |      | 47.83   |
+| RoBorregas                            | 30.68  | 0                |              |                   |                   |      | 30.68   |
+| RoboFEI                               | 30.65  | 0                |              |                   |                   |      | 30.65   |
+| SCC (Serious Cybernetcis Corporation) | 38.91  | 465              |              |                   |                   |      | 503.91  |
+| SOBITS                                | 0      |                  |              |                   |                   |      | 0.00    |
+| SocRob@Home                           | 36.52  | 115              |              |                   |                   |      | 151.52  |
+| ToBI (Team of Bielefeld)              | 38.26  | 115              |              |                   |                   |      | 153.26  |
+| Tidyboy-OPL                           | 31.74  | 165              |              |                   |                   |      | 196.74  |
+| Tinker                                | 25.87  |                  |              |                   |                   |      | 25.87   |
 
 <!--
 Team rankings and total scores from stage 1 and stage 2
