@@ -51,7 +51,7 @@ Join the Eindhoven 2024 Telegram group for quick announcements: https://t.me/+_B
 |Chief Scientist Office|28.41|615.00|115||||758.41|
 |EPFL@Home|0.00|0.00|190||||190.00|
 |FBOT@Home|33.91|15|0||||48.91|
-|Gentlebots|32.81|465|445||||942.81|
+|Gentlebots|32.81|465|455||||952.81|
 |LAR@Home|34.09|15|700||||749.09|
 |LASR|32.86|165|0||||197.86|
 |LCASTOR|28.7|450|0||||478.70|
