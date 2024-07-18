@@ -133,10 +133,10 @@ SSPL
 |1|RoboCanes-VISAGE|DSPL|1|~~KIARO~~|SSPL|1|NimbRo@Home|OPL|
 |2|UT Austin Villa@Home|DSPL|2|SinfonIA|SSPL|2|SocRob@Home|OPL|
 |3|SUTURO-VaB|DSPL|3|SKUBA|SSPL|3|Tidyboy-OPL|OPL|
-|4|Tidyboy-DSPL|DSPL|4|LyonTech|OPL|4|ToBI (Team of Bielefeld)|OPL|
+|4|Tidyboy-DSPL|DSPL|4|~~LyonTech~~|OPL|4|ToBI (Team of Bielefeld)|OPL|
 |5|TU/e|DSPL|5|RoboFEI|OPL|5|SOBITS|OPL|
 |6|TRAIL|DSPL|6|LAR@Home|OPL|6|SCC (Serious Cybernetcis Corporation)|OPL|
-|7|rUNSWeep|DSPL|7|Tinker|OPL|7|EPFL@Home|OPL|
+|7|rUNSWeep|DSPL|7|Tinker|OPL|7|~~EPFL@Home~~|OPL|
 |8|eR@sers|DSPL|8|RoBorregos|OPL|8|Chief Scientist Office|OPL|
 |9|Hibikino-Musashi@Home|DSPL|9|Gentlebots|OPL|9|FBOT@Home|OPL|
 ||||10|LCASTOR|OPL|10|~~LASR~~|OPL|
@@ -155,7 +155,7 @@ SSPL
 |7|eR@sers|DSPL|7|LCASTOR|OPL|7|Tidyboy-OPL|OPL|
 |8|TRAIL|DSPL|8|SocRob@Home|OPL|8|Chief Scientist Office|OPL|
 |9|Hibikino-Musashi@Home|DSPL|9|Gentlebots|OPL|9|LAR@Home|OPL|
-||||10|LyonTech|OPL|10|EPFL@Home|OPL|
+||||10|~~LyonTech~~|OPL|10|~~EPFL@Home~~|OPL|
 ||||11|RoboFEI|OPL||||
 
 ### General Purpose Service Robot (GPSR), Fri July 12:00
@@ -163,10 +163,10 @@ SSPL
 |#|GPSR (Arena A)|League|#|GPSR (Arena B,C)|League|#|GPSR (Arena C,B)|League|
 |-|-|-|-|-|-|-|-|-|
 |1|TRAIL|DSPL|1|SinfonIA|SSPL|1|Chief Scientist Office|OPL|
-|2|rUNSWeep|DSPL|2|KIARO|SSPL|2|EPFL@Home|OPL|
+|2|rUNSWeep|DSPL|2|KIARO (Receptionist)|SSPL|2|EPFL@Home|OPL|
 |3|UT Austin Villa@Home|DSPL|3|SKUBA|SSPL|3|LAR@Home|OPL|
-|4|Tidyboy-DSPL|DSPL|4|SCC (Serious Cybernetcis Corporation)|OPL|4|Tidyboy-OPL|OPL|
-|5|RoboCanes-VISAGE|DSPL|5|NimbRo@Home|OPL|5|LyonTech|OPL|
+|4|Tidyboy-DSPL|DSPL|4|SCC (Serious Cybern etcis Corporation)|OPL|4|Tidyboy-OPL|OPL|
+|5|RoboCanes-VISAGE|DSPL|5|NimbRo@Home|OPL|5|LyonTech (Receptioning/Carry my Luggage)|OPL|
 |6|Hibikino-Musashi@Home|DSPL|6|SocRob@Home|OPL|6|LCASTOR|OPL|
 |7|eR@sers|DSPL|7|FBOT@Home|OPL|7|RoBorregos|OPL|
 |8|SUTURO-VaB|DSPL|8|LASR|OPL|8|RoboFEI|OPL|
