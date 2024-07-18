@@ -22,12 +22,26 @@ Join the Eindhoven 2024 Telegram group for quick announcements: https://t.me/+_B
 
 ### SSPL
 
-
 |Team Name|Poster|Carry My Luggage|Receptionist|Storing Groceries|Serving Breakfast|GPSR|Stage 1|
 |---|---|---|---|---|---|---|---|
 |KIARO|31.09|0|||||31.09|
 |SinfonIA|31.30|0|||||31.30|
 |SKUBA|24.13|0|||||24.13|
+
+### DSPL
+
+
+| Team Name             | Poster | Carry My Luggage | Receptionist | Storing Groceries | Serving Breakfast | GPSR | Stage 1 |
+| --------------------- | ------ | ---------------- | ------------ | ----------------- | ----------------- | ---- | ------- |
+| eR@sers               | 28.86  | 515              |              |                   |                   |      | 543.86  |
+| Hibikino-Musashi@Home | 34.09  | 665              |              |                   |                   |      | 699.09  |
+| RoboCanes-VISAGE      | 30.87  | 400              |              |                   |                   |      | 430.87  |
+| rUNSWeep              | 30.95  | 0                |              |                   |                   |      | 30.95   |
+| SUTURO-VaB            | 35.43  | 400              |              |                   |                   |      | 435.43  |
+| Tech United Eindhoven | 32.39  | 550              |              |                   |                   |      | 582.39  |
+| Tidyboy-DSPL          | 32.17  | 115              |              |                   |                   |      | 147.17  |
+| TRAIL                 | 40     | 50               |              |                   |                   |      | 90      |
+| UT Austin Villa@Home  | 37.67  | 15               |              |                   |                   |      | 52.67   |
 
 <!--
 Team rankings and total scores from stage 1 and stage 2
