@@ -19,6 +19,16 @@ Join the Eindhoven 2024 Telegram group for quick announcements: https://t.me/+_B
     + [EGPSR](#egpsr)
 
 ## Scores
+
+### SSPL
+
+
+|Team Name|Poster|Carry My Luggage|Receptionist|Storing Groceries|Serving Breakfast|GPSR|Stage 1|
+|---|---|---|---|---|---|---|---|
+|KIARO|31.09|0|||||31.09|
+|SinfonIA|31.30|0|||||31.30|
+|SKUBA|24.13|0|||||24.13|
+
 <!--
 Team rankings and total scores from stage 1 and stage 2
 
