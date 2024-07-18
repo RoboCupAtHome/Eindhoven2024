@@ -48,23 +48,22 @@ Join the Eindhoven 2024 Telegram group for quick announcements: https://t.me/+_B
 
 |Team Name|Poster|Carry My Luggage|Receptionist|Storing Groceries|Serving Breakfast|GPSR|Stage 1|
 |---|---|---|---|---|---|---|---|
-|Chief Scientist Office|28.41|615.00|115||||758.41|
-|EPFL@Home|0.00|0.00|190||||190.00|
-|FBOT@Home|33.91|15|0||||48.91|
-|Gentlebots|32.81|465|455||||952.81|
-|LAR@Home|34.09|15|700||||749.09|
-|LASR|32.86|165|0||||197.86|
-|LCASTOR|28.7|450|0||||478.70|
-|LyonTech|31.96|15|0||||46.96|
-|NimbRo@Home|38.04|265|550||||853.04|
-|Pumas|32.83|15|330||||377.83|
-|RoBorregas|30.68|0|0||||30.68|
-|RoboFEI|30.65|0|430||||460.65|
-|SCC (Serious Cybernetcis Corporation)|38.91|465|620||||1,123.91|
-|SOBITS|0||||||0.00|
-|SocRob@Home|36.52|115|440||||591.52|
-|ToBI (Team of Bielefeld)|38.26|115|265||||418.26|
-|Tidyboy-OPL|31.74|165|0||||196.74|
+|Chief Scientist Office|28.41|615.00|115|405|||1,163.41|
+|EPFL@Home|0.00|0.00|190|0|||190.00|
+|FBOT@Home|33.91|15|0|30|||78.91|
+|Gentlebots|32.81|465|455|30|||982.81|
+|LAR@Home|34.09|15|700|15|||764.09|
+|LASR|32.86|165|0|0|||197.86|
+|LCASTOR|28.7|450|0|30|||508.70|
+|LyonTech|31.96|15|0|0|||46.96|
+|NimbRo@Home|38.04|265|550|15|||868.04|
+|Pumas|32.83|15|330|45|||422.83|
+|RoBorregas|30.68|0|0|0|||30.68|
+|RoboFEI|30.65|0|430|290|||750.65|
+|SCC (Serious Cybernetcis Corporation)|38.91|465|620|15|||1,138.91|
+|SocRob@Home|36.52|115|440|45|||636.52|
+|ToBI (Team of Bielefeld)|38.26|115|265|15|||433.26|
+|Tidyboy-OPL|31.74|165|0|1074|||1,270.74|
 |Tinker|25.87||||||25.87|
 
 
