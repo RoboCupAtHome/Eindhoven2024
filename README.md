@@ -152,6 +152,22 @@ SSPL
 |5|Hibikino-Musashi@Home|DSPL|5|LAR@Home|OPL|5|Gentlebots|OPL|
 |6|UT Austin Villa@Home|DSPL|6|Chief Scientist Office|OPL||||
 
+### Restaurant, Sat July 20, 9:00
+
+The ordering of leagues is SSPL, DSPL, OPL.
+
+|#|Restaurant (DSPL)|League|#|Restaurant (SSPL)|League|#|Restaurant (OPL)|League|
+|-|-|-|-|-|-|-|-|-|
+|1|eR@sers|DSPL|1|SinfonIA|SSPL|1|Tidyboy-OPL|OPL|
+|2|Tidyboy-DSPL|DSPL|2|SKUBA|SSPL|2|LCASTOR|OPL|
+|3|UT Austin Villa@Home|DSPL||||3|LAR@Home|OPL|
+|4|Hibikino-Musashi@Home|DSPL||||4|SocRob@Home|OPL|
+|5|Tech United Eindhoven|DSPL||||5|SCC (Serious Cybernetcis Corporation)|OPL|
+|6|TRAIL|DSPL||||6|Chief Scientist Office|OPL|
+|||||||7|RoboFEI|OPL|
+|||||||8|NimbRo@Home|OPL|
+|||||||9|Gentlebots|OPL|
+
 ### Carry my Luggage, Thu July 18, 9:00 (outside arena, teams start in two groups)
 
 |#|Carry My Luggage (Starting Point B) |League|#|Carry My Luggage (Starting Point A) |League|
