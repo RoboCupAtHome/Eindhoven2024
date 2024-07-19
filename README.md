@@ -214,7 +214,7 @@ SSPL
 |#|GPSR (Arena A)|League|#|GPSR (Arena B,C)|League|#|GPSR (Arena C,B)|League|
 |-|-|-|-|-|-|-|-|-|
 |1|TRAIL|DSPL|1|SinfonIA|SSPL|1|Chief Scientist Office|OPL|
-|2|rUNSWeep|DSPL|2|~~KIARO (Receptionist)~~|SSPL|2|~~EPFL@Home~~|OPL|
+|2|rUNSWeep (Serve Breakfast)|DSPL|2|~~KIARO (Receptionist)~~|SSPL|2|~~EPFL@Home~~|OPL|
 |3|UT Austin Villa@Home|DSPL|3|SKUBA|SSPL|3|LAR@Home|OPL|
 |4|Tidyboy-DSPL|DSPL|4|SCC (Serious Cybern etcis Corporation)|OPL|4|Tidyboy-OPL|OPL|
 |5|RoboCanes-VISAGE|DSPL|5|NimbRo@Home|OPL|5|LyonTech (Receptionist)|OPL|
