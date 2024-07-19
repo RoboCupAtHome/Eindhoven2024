@@ -217,7 +217,7 @@ SSPL
 |2|rUNSWeep|DSPL|2|KIARO (Receptionist)|SSPL|2|~~EPFL@Home~~|OPL|
 |3|UT Austin Villa@Home|DSPL|3|SKUBA|SSPL|3|LAR@Home|OPL|
 |4|Tidyboy-DSPL|DSPL|4|SCC (Serious Cybern etcis Corporation)|OPL|4|Tidyboy-OPL|OPL|
-|5|RoboCanes-VISAGE|DSPL|5|NimbRo@Home|OPL|5|LyonTech (Receptioning/Carry my Luggage)|OPL|
+|5|RoboCanes-VISAGE|DSPL|5|NimbRo@Home|OPL|5|LyonTech (Receptionist)|OPL|
 |6|Hibikino-Musashi@Home|DSPL|6|SocRob@Home|OPL|6|LCASTOR|OPL|
 |7|eR@sers|DSPL|7|FBOT@Home|OPL|7|RoBorregos|OPL|
 |8|SUTURO-VaB|DSPL|8|LASR|OPL|8|RoboFEI|OPL|
