@@ -49,25 +49,25 @@ Join the Eindhoven 2024 Telegram group for quick announcements: https://t.me/+_B
 ### OPL
 
 
-|Team Name|Poster|Carry My Luggage|Receptionist|Storing Groceries|Serving Breakfast|GPSR|Stage 1|
-|---|---|---|---|---|---|---|---|
-|Chief Scientist Office|28.41|615.00|115|405|||1,163.41|
-|EPFL@Home|0.00|0.00|190|0|||190.00|
-|FBOT@Home|33.91|15|0|30|||78.91|
-|Gentlebots|32.81|465|455|30|||982.81|
-|LAR@Home|34.09|15|700|15|||764.09|
-|LASR|32.86|165|0|0|||197.86|
-|LCASTOR|28.7|450|0|30|||508.70|
-|LyonTech|31.96|15|0|0|||46.96|
-|NimbRo@Home|38.04|265|550|15|||868.04|
-|Pumas|32.83|15|330|45|||422.83|
-|RoBorregas|30.68|0|0|0|||30.68|
-|RoboFEI|30.65|0|430|290|||750.65|
-|SCC (Serious Cybernetcis Corporation)|38.91|465|620|15|||1,138.91|
-|SocRob@Home|36.52|115|440|45|||636.52|
-|ToBI (Team of Bielefeld)|38.26|115|265|15|||433.26|
-|Tidyboy-OPL|31.74|165|0|1074|||1,270.74|
-|Tinker|25.87||||||25.87|
+||Team Name|Poster|Carry My Luggage|Receptionist|Storing Groceries|Serving Breakfast|GPSR|Stage 1|
+|---|---|---|---|---|---|---|---|---|
+|1|Tidyboy-OPL|31.74|165|0|1074|1147||2,417.74|
+|2|Chief Scientist Office|28.41|615.00|115|405|445||1,608.41|
+|3|LAR@Home|34.09|15|700|15|480||1,244.09|
+|4|NimbRo@Home|38.04|265|550|15|360||1,228.04|
+|5|SCC (Serious Cybernetcis Corporation)|38.91|465|620|15|15||1,153.91|
+|6|Gentlebots|32.81|465|455|30|0||982.81|
+|7|SocRob@Home|36.52|115|440|45|245||881.52|
+|8|RoboFEI|30.65|0|430|290|65||815.65|
+|9|ToBI (Team of Bielefeld)|38.26|115|265|15|145||578.26|
+|10|LCASTOR|28.7|450|0|30|15||523.70|
+|11|Pumas|32.83|15|330|45|30||452.83|
+|12|LASR|32.86|165|0|0|0||197.86|
+|13|EPFL@Home|0.00|0.00|190|0|0||190.00|
+|14|FBOT@Home|33.91|15|0|30|30||108.91|
+|15|LyonTech|31.96|15|0|0|0||46.96|
+|16|RoBorregos|30.68|0|0|0|0||30.68|
+|17|Tinker|25.87||||0||25.87|
 
 
 <!--
