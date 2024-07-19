@@ -31,17 +31,18 @@ Join the Eindhoven 2024 Telegram group for quick announcements: https://t.me/+_B
 ### DSPL
 
 
+
 |Team Name|Poster|Carry My Luggage|Receptionist|Storing Groceries|Serving Breakfast|GPSR|Stage 1|
 |---|---|---|---|---|---|---|---|
-|eR@sers|28.86|515|195|80|||818.86|
-|Hibikino-Musashi@Home|34.09|665|590|570|||1859.09|
-|RoboCanes-VISAGE|30.87|400|355|0|||785.87|
-|rUNSWeep|30.95|0|0|15|||45.95|
-|SUTURO-VaB|35.43|400||45|||480.43|
-|Tech United Eindhoven|32.39|550|540|205|||1327.39|
-|Tidyboy-DSPL|32.17|115|385|585|||1117.17|
-|TRAIL|40|50|387.5|305|||782.5|
-|UT Austin Villa@Home|37.67|15|490|95|||637.67|
+|eR@sers|28.86|515|195|80|15||833.86|
+|Hibikino-Musashi@Home|34.09|665|590|570|145||2004.09|
+|RoboCanes-VISAGE|30.87|400|355|0|15||800.87|
+|rUNSWeep|30.95|0|0|15|15||60.95|
+|SUTURO-VaB|35.43|400|355|45|0||835.43|
+|Tech United Eindhoven|32.39|550|540|205|15||1342.39|
+|Tidyboy-DSPL|32.17|115|385|585|80||1197.17|
+|TRAIL|40|50|387.5|305|15||797.5|
+|UT Austin Villa@Home|37.67|15|490|95|80||717.67|
 
 
 ### OPL
