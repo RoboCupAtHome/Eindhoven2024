@@ -146,7 +146,7 @@ SSPL
 |#|Clean the Table (Arena A)|League|#|Clean the Table (Arena B,C)|League|#|Clean the Tablet (Arena C,B)|League|
 |-|-|-|-|-|-|-|-|-|
 |1|Tech United Eindhoven|DSPL|1|SKUBA|SSPL|1|SocRob@Home|OPL|
-|2|Tidyboy-DSPL|DSPL|2|SinfonIA|SSPL|2|LCASTOR|OPL|
+|2|Tidyboy-DSPL|DSPL|2|SinfonIA|SSPL|2|~~LCASTOR~~|OPL|
 |3|TRAIL|DSPL|3|RoboFEI|OPL|3|Tidyboy-OPL|OPL|
 |4|eR@sers|DSPL|4|SCC (Serious Cybernetcis Corporation)|OPL|4|NimbRo@Home|OPL|
 |5|Hibikino-Musashi@Home|DSPL|5|LAR@Home|OPL|5|Gentlebots|OPL|
