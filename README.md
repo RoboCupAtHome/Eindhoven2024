@@ -222,7 +222,7 @@ SSPL
 |7|eR@sers|DSPL|7|FBOT@Home (Receptionist)|OPL|7|RoBorregos (Serve Breakfast)|OPL|
 |8|SUTURO-VaB|DSPL|8|LASR|OPL|8|RoboFEI|OPL|
 |9|TU/e|DSPL|9|Gentlebots|OPL|9|Pumas|OPL|
-||||10|Tinker|OPL|10|SOBITS|OPL|
+||||10|Tinker (Receptionist)|OPL|10|SOBITS|OPL|
 ||||11|ToBI (Team of Bielefeld)|OPL||||
 
 ### Testslots & Robot Inspection
