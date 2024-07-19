@@ -6,6 +6,7 @@ Join the Eindhoven 2024 Telegram group for quick announcements: https://t.me/+_B
 
 - [Scores](#scores)
 - [Schedule](#schedule)
+Note: Clean The Table moved to 5 pm
 - [Arenas](#arenas)
 - [Stage 1](#stage-1)
     + [Receptionist](#receptionist)
@@ -133,9 +134,9 @@ SSPL
 | 13:00 |  Testslot #2        |                     | Receptionist        | GPSR                      | Stickler for the Rules              | Final (time pending) |
 | 14:00 |  Testslot #2        |                     | Receptionist        | announcement second stage | Stickler for the Rules              |                |
 | 15:00 |                     | Opening Ceremony    |                     |                           |                                     |                |
-| 16:00 |                     |                     | Storing Groceries   | Clean the Table           | EGPSR                               |                |
+| 16:00 |                     |                     | Storing Groceries   |                           | EGPSR                               |                |
 | 17:00 |  Testslot #3        | Robot Inspection    | Storing Groceries   | Clean the Table           | EGPSR                               |                |
-| 18:00 |  Testslot #3        | 18:30 Team-Leader Meeting |                     |                           |                                     |                |
+| 18:00 |  Testslot #3        | 18:30 Team-Leader Meeting |                     |        Clean the Table          |                                     |                |
 | 19:00 | Team-Leader Meeting | 19:30 Poster Presentation (+ additional tries for Robot Inspection) | Team-Leader Meeting | Team-Leader Meeting       |                                     |                |
 | 20:00 |                     | Poster Presentation & Reception    |                     |                           |                                     |                |
 
