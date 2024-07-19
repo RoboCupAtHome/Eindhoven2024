@@ -23,6 +23,8 @@ Note: Clean The Table moved to 5 pm
 
 ### SSPL
 
+The 2 best teams qualify for stage 2.
+
 |Team Name|Poster|Carry My Luggage|Receptionist|Storing Groceries|Serving Breakfast|GPSR|Stage 1|
 | -------- | ----- | --- | --- | --- | --- | --- | ------ |
 | KIARO    | 31.09 | 0   | 0   | 0   | 0   |     | 31.09  |
@@ -45,10 +47,9 @@ The 6 best teams qualify for stage 2.
 |8|RoboCanes-VISAGE|30.87|400|355|0|15|0|800.87|
 |9|rUNSWeep|30.95|0|0|15|15|15|75.95|
 
-
-
-
 ### OPL
+
+The 9 best teams qualify for stage 2.
 
 ||Team Name|Poster|Carry My Luggage|Receptionist|Storing Groceries|Serving Breakfast|GPSR|Stage 1|
 |---|---|---|---|---|---|---|---|---|
