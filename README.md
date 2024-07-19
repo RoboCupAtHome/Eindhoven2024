@@ -22,13 +22,11 @@ Join the Eindhoven 2024 Telegram group for quick announcements: https://t.me/+_B
 
 ### SSPL
 
-
 |Team Name|Poster|Carry My Luggage|Receptionist|Storing Groceries|Serving Breakfast|GPSR|Stage 1|
-|---|---|---|---|---|---|---|---|
-|KIARO|31.09|0|0|0|||31.09|
-|SinfonIA|31.30|0|265|0|||296.30|
-|SKUBA|24.13|0|0|0|||24.13|
-
+| -------- | ----- | --- | --- | --- | --- | --- | ------ |
+| KIARO    | 31.09 | 0   | 0   | 0   | 0   |     | 31.09  |
+| SinfonIA | 31.30 | 0   | 265 | 0   | 0   |     | 296.30 |
+| SKUBA    | 24.13 | 0   | 0   | 0   | 15  |     | 39.13  |
 
 ### DSPL
 
