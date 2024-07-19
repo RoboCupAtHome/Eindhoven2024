@@ -219,7 +219,7 @@ SSPL
 |4|Tidyboy-DSPL|DSPL|4|SCC (Serious Cybern etcis Corporation)|OPL|4|Tidyboy-OPL|OPL|
 |5|RoboCanes-VISAGE|DSPL|5|NimbRo@Home|OPL|5|LyonTech (Receptionist)|OPL|
 |6|Hibikino-Musashi@Home|DSPL|6|SocRob@Home|OPL|6|LCASTOR|OPL|
-|7|eR@sers|DSPL|7|FBOT@Home (Receptionist)|OPL|7|RoBorregos|OPL|
+|7|eR@sers|DSPL|7|FBOT@Home (Receptionist)|OPL|7|RoBorregos (Serve Breakfast)|OPL|
 |8|SUTURO-VaB|DSPL|8|LASR|OPL|8|RoboFEI|OPL|
 |9|TU/e|DSPL|9|Gentlebots|OPL|9|Pumas|OPL|
 ||||10|Tinker|OPL|10|SOBITS|OPL|
