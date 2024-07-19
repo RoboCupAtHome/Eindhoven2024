@@ -146,7 +146,7 @@ SSPL
 |#|Clean the Table (Arena A)|League|#|Clean the Table (Arena B,C)|League|#|Clean the Tablet (Arena C,B)|League|
 |-|-|-|-|-|-|-|-|-|
 |1|Tech United Eindhoven|DSPL|1|SKUBA|SSPL|1|SocRob@Home|OPL|
-|2|Tidyboy-DSPL|DSPL|2|SinfonIA|SSPL|2|~~LCASTOR~~|OPL|
+|2|Tidyboy-DSPL|DSPL|2|~~SinfonIA~~|SSPL|2|~~LCASTOR~~|OPL|
 |3|TRAIL|DSPL|3|RoboFEI|OPL|3|Tidyboy-OPL|OPL|
 |4|eR@sers|DSPL|4|SCC (Serious Cybernetcis Corporation)|OPL|4|NimbRo@Home|OPL|
 |5|Hibikino-Musashi@Home|DSPL|5|LAR@Home|OPL|5|Gentlebots|OPL|
@@ -178,6 +178,19 @@ The ordering of leagues is SSPL, DSPL, OPL.
 |4|Hibikino-Musashi@Home|DSPL|4|Gentlebots|OPL|4|Tidyboy-OPL|OPL|
 |5|TRAIL|DSPL|5|NimbRo@Home|OPL|5|Chief Scientist Office|OPL|
 |6|Tech United Eindhoven|DSPL|6|SCC (Serious Cybernetcis Corporation)|OPL||||
+
+### Enhanced GPSR, Sat July 20, 16:00
+
+|#|E-GPSR (Arena A)|League|#|E-GPSR (Arena B,C)|League|#|E-GPSR (Arena C,B)|League|
+|-|-|-|-|-|-|-|-|-|
+|1|UT Austin Villa@Home|DSPL|1|SKUBA|SSPL|1|Gentlebots|OPL|
+|2|TRAIL|DSPL|2|SinfonIA|SSPL|2|NimbRo@Home|OPL|
+|3|Tech United Eindhoven|DSPL|3|Chief Scientist Office|OPL|3|LAR@Home|OPL|
+|4|Tidyboy-DSPL|DSPL|4|LCASTOR|OPL|4|SCC (Serious Cybernetcis Corporation)|OPL|
+|5|Hibikino-Musashi@Home|DSPL|5|SocRob@Home|OPL|5|RoboFEI|OPL|
+|6|eR@sers|DSPL|6|Tidyboy-OPL|OPL||||
+
+## Schedules of Stage 1
 
 ### Carry my Luggage, Thu July 18, 9:00 (outside arena, teams start in two groups)
 
