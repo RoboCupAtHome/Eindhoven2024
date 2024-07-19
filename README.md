@@ -30,6 +30,7 @@ Join the Eindhoven 2024 Telegram group for quick announcements: https://t.me/+_B
 
 ### DSPL
 
+The 6 best teams qualify for stage 2.
 
 ||Team Name|Poster|Carry My Luggage|Receptionist|Storing Groceries|Serving Breakfast|GPSR|Stage 1|
 |---|---|---|---|---|---|---|---|---|
