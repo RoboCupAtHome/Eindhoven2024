@@ -168,6 +168,17 @@ The ordering of leagues is SSPL, DSPL, OPL.
 |||||||8|NimbRo@Home|OPL|
 |||||||9|Gentlebots|OPL|
 
+### Stickler for the Rules, Sat July 20, 13:00
+
+|#|Stickler for the Rules (Arena A)|League|#|Stickler for the Rules (Arena B,C)|League|#|Stickler for the Rules (Arena C,B)|League|
+|-|-|-|-|-|-|-|-|-|
+|1|Tidyboy-DSPL|DSPL|1|SinfonIA|SSPL|1|LCASTOR|OPL|
+|2|eR@sers|DSPL|2|SKUBA|SSPL|2|LAR@Home|OPL|
+|3|UT Austin Villa@Home|DSPL|3|RoboFEI|OPL|3|SocRob@Home|OPL|
+|4|Hibikino-Musashi@Home|DSPL|4|Gentlebots|OPL|4|Tidyboy-OPL|OPL|
+|5|TRAIL|DSPL|5|NimbRo@Home|OPL|5|Chief Scientist Office|OPL|
+|6|Tech United Eindhoven|DSPL|6|SCC (Serious Cybernetcis Corporation)|OPL||||
+
 ### Carry my Luggage, Thu July 18, 9:00 (outside arena, teams start in two groups)
 
 |#|Carry My Luggage (Starting Point B) |League|#|Carry My Luggage (Starting Point A) |League|
