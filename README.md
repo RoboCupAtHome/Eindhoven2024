@@ -23,6 +23,11 @@ Note: Clean The Table moved to 5 pm
 
 ### SSPL
 
+|Team Name|Stage 1|Clean the Table|Restaurant|Stickler for the Rules|EGPSR|Score Stage 1+2|
+|---|---|---|---|---|---|---|
+|SinfonIA|296.30||0|||296.30|
+|SKUBA|39.13|15||||54.13|
+
 The 2 best teams qualify for stage 2.
 
 |Team Name|Poster|Carry My Luggage|Receptionist|Storing Groceries|Serving Breakfast|GPSR|Stage 1|
