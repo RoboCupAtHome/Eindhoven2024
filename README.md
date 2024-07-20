@@ -23,10 +23,12 @@ Note: Clean The Table moved to 5 pm
 
 ### SSPL
 
+
 |Team Name|Stage 1|Clean the Table|Restaurant|Stickler for the Rules|EGPSR|Score Stage 1+2|
 |---|---|---|---|---|---|---|
-|SinfonIA|296.30||0|500||796.30|
-|SKUBA|39.13|15||0||54.13|
+|SinfonIA|296.30||0|500|150|946.30|
+|SKUBA|39.13|15||0|0|54.13|
+
 
 The 2 best teams qualify for stage 2.
 
