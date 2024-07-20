@@ -36,14 +36,15 @@ The 2 best teams qualify for stage 2.
 
 |Team Name|Stage 1|Clean the Table|Restaurant|Stickler for the Rules|EGPSR|Score Stage 1+2|
 |---|---|---|---|---|---|---|
-|Hibikino-Musashi@Home|2554.09|15||||2569.09|
-|Tidyboy-DSPL|1857.17|15||||1872.17|
-|Tech United Eindhoven|1392.39|15||||1407.39|
-|eR@sers|1383.86|15||||1398.86|
-|UT Austin Villa@Home|1377.67|55||||1432.67|
-|TRAIL|1017.5|205||||1222.5|
+|Hibikino-Musashi@Home|2554.09|15|995|||3564.09|
+|Tidyboy-DSPL|1857.17|15|530|||2402.17|
+|Tech United Eindhoven|1392.39|15|615|||2022.39|
+|eR@sers|1383.86|15|1060|||2458.86|
+|UT Austin Villa@Home|1377.67|55|0|||1432.67|
+|TRAIL|1017.5|205|0|||1222.5|
 |SUTURO-VaB|935.43|0||||935.43|
 |RoboCanes-VISAGE|800.87|||||800.87|
+
 
 The 6 best teams qualify for stage 2.
 
