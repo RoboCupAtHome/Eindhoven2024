@@ -72,15 +72,15 @@ The 6 best teams qualify for stage 2.
 
 |Team Name|Stage 1|Clean the Table|Restaurant|Stickler for the Rules|EGPSR|Score Stage 1+2|
 |---|---|---|---|---|---|---|
-|Tidyboy-OPL|2,717.74|545|350|600||4,212.74|
-|NimbRo@Home|2,128.04|275|1200|800||4,403.04|
-|Chief Scientist Office|1,738.41|15|0|800||2,553.41|
-|SocRob@Home|1,731.52|15|200|1500||3,446.52|
-|SCC (Serious Cybernetcis Corporation)|1,453.91|15|0|0||1,468.91|
-|LAR@Home|1,244.09|525|100|800||2,669.09|
-|Gentlebots|1,132.81|0|500|400||2,032.81|
-|LCASTOR|1,003.70|0|200|0||1,203.70|
-|RoboFEI|815.65|15|0|1300||2,130.65|
+|NimbRo@Home|2,128.04|275|1200|800|515|4,918.04|
+|SocRob@Home|1,731.52|15|200|1500|800|4,246.52|
+|Tidyboy-OPL|2,717.74|545|350|600|0|4,212.74|
+|Chief Scientist Office|1,738.41|15|0|800|750|3,303.41|
+|LAR@Home|1,244.09|525|100|800|150|2,819.09|
+|RoboFEI|815.65|15|0|1300|0|2,130.65|
+|Gentlebots|1,132.81|0|500|400|0|2,032.81|
+|SCC (Serious Cybernetcis Corporation)|1,453.91|15|0|0|0|1,468.91|
+|LCASTOR|1,003.70|0|200|0|0|1,203.70|
 
 The 9 best teams qualify for stage 2.
 
