@@ -220,7 +220,7 @@ The ordering of leagues is SSPL, DSPL, OPL.
 |2|TRAIL|DSPL|2|SinfonIA|SSPL|2|NimbRo@Home|OPL|
 |3|Tech United Eindhoven|DSPL|3|Chief Scientist Office|OPL|3|LAR@Home|OPL|
 |4|Tidyboy-DSPL|DSPL|4|LCASTOR|OPL|4|SCC (Serious Cybernetcis Corporation)|OPL|
-|5|Hibikino-Musashi@Home|DSPL|5|SocRob@Home|OPL|5|RoboFEI|OPL|
+|5|Hibikino-Musashi@Home|DSPL|5|SocRob@Home|OPL|5|~~RoboFEI~~|OPL|
 |6|eR@sers|DSPL|6|Tidyboy-OPL|OPL||||
 
 ## Schedules of Stage 1
