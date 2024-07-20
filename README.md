@@ -159,10 +159,10 @@ SSPL
 |       | Tue July 16         | Wed July 17         | Thu July 18         | Fri July 19               | Sat July 20                         | Sun July 21    |
 | ----- | ------------------- |-------------------- | ------------------- | ------------------------- | ----------------------------------- | -------------- |
 | 09:00 |                     |                     | Carry my Luggage    | Serve Breakfast           | Restaurant (all teams present 8:30) |                |
-| 10:00 |  Testslot #1        | Testslot #4         | Carry my Luggage    | Serve Breakfast           | Restaurant                          | Open challenge |
-| 11:00 |  Testslot #1        | Testslot #4         | Carry my Luggage    |                           | Restaurant                          | 11:30: Finals SSPL |
-| 12:00 |                     |                     |                     | GPSR                      |                                     | 12:00 Finals OPL |
-| 13:00 |  Testslot #2        |                     | Receptionist        | GPSR                      | Stickler for the Rules              | 13:00 Finals DSPL |
+| 10:00 |  Testslot #1        | Testslot #4         | Carry my Luggage    | Serve Breakfast           | Restaurant                          | Open challenge (Arena C) |
+| 11:00 |  Testslot #1        | Testslot #4         | Carry my Luggage    |                           | Restaurant                          | 11:30: Finals SSPL (Arena C)|
+| 12:00 |                     |                     |                     | GPSR                      |                                     | 12:00 Finals OPL (Arena B)|
+| 13:00 |  Testslot #2        |                     | Receptionist        | GPSR                      | Stickler for the Rules              | 13:00 Finals DSPL (Arena A)|
 | 14:00 |  Testslot #2        |                     | Receptionist        | announcement second stage | Stickler for the Rules              |                |
 | 15:00 |                     | Opening Ceremony    |                     |                           |                                     |                |
 | 16:00 |                     |                     | Storing Groceries   |                           | EGPSR                               |                |
