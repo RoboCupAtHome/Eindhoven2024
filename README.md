@@ -24,7 +24,7 @@ Note: Clean The Table moved to 5 pm
 ### SSPL
 
 
-||Team Name (ranking)|Stage 1+2|Internal|External|Final Score|
+||Team Name (ranking)|Stage 1+2|Internal (weighted by 50% of stage 1+2)|External (weighted by 50% of stage 1+2)|Final Score|
 |---|---|---|---|---|---|
 |1|SinfonIA|946.30|153.77|272.06|1,372.14|
 |2|SKUBA|54.13|10.37|17.14|81.65|
@@ -45,7 +45,7 @@ The 2 best teams qualify for stage 2.
 
 ### DSPL
 
-|     | Team Name (ranking)   | Stage 1+2 | Internal | External | Final Score |
+|     | Team Name (ranking)   | Stage 1+2 | Internal (weighted by 50% of stage 1+2) | External (weighted by 50% of stage 1+2) | Final Score |
 | --- | --------------------- | --------- | -------- | -------- | ----------- |
 | 1   | Hibikino-Musashi@Home | 5314.09   | 1992.78  | 1727.07  | 9,033.95    |
 | 2   | eR@sers               | 3808.86   | 1015.69  | 1428.32  | 6,252.88    |
@@ -80,7 +80,7 @@ The 6 best teams qualify for stage 2.
 ### OPL
 
 
-||Team Name (ranking)|Stage 1+2|Internal|External|Final Score|
+||Team Name (ranking)|Stage 1+2|Internal (weighted by 50% of stage 1+2)|External (weighted by 50% of stage 1+2)|Final Score|
 |---|---|---|---|---|---|
 |1|NimbRo@Home|4,918.04|1,782.79|2,151.64|8,852.47|
 |2|Tidyboy-OPL|4,212.74|1,544.67|1,737.76|7,495.17|
