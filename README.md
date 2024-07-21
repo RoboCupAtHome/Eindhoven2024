@@ -69,6 +69,13 @@ The 6 best teams qualify for stage 2.
 ### OPL
 
 
+||Team Name (ranking)|Stage 1+2|Internal|External|Final Score|
+|---|---|---|---|---|---|
+|1|NimbRo@Home|4,918.04|1,782.79|2,151.64|8,852.47|
+|2|Tidyboy-OPL|4,212.74|1,544.67|1,737.76|7,495.17|
+|3|SocRob@Home|4,246.52|1,185.49|1,468.59|6,900.60|
+
+
 |Team Name|Stage 1|Clean the Table|Restaurant|Stickler for the Rules|EGPSR|Score Stage 1+2|
 |---|---|---|---|---|---|---|
 |NimbRo@Home|2,128.04|275|1200|800|515|4,918.04|
