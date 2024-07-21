@@ -40,6 +40,12 @@ The 2 best teams qualify for stage 2.
 
 ### DSPL
 
+|     | Team Name (ranking)   | Stage 1+2 | Internal | External | Final Score |
+| --- | --------------------- | --------- | -------- | -------- | ----------- |
+| 1   | Hibikino-Musashi@Home | 5314.09   | 1992.78  | 1727.07  | 9,033.95    |
+| 2   | eR@sers               | 3808.86   | 1015.69  | 1428.32  | 6,252.88    |
+| 3   | Tidyboy-DSPL          | 3552.17   | 695.63   | 843.64   | 5,091.44    |
+
 
 |Team Name|Stage 1|Clean the Table|Restaurant|Stickler for the Rules|EGPSR|Score Stage 1+2|
 |---|---|---|---|---|---|---|
