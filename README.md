@@ -24,6 +24,11 @@ Note: Clean The Table moved to 5 pm
 ### SSPL
 
 
+||Team Name (ranking)|Stage 1+2|Internal|External|Final Score|
+|---|---|---|---|---|---|
+|1|SinfonIA|946.30|153.77|272.06|1,372.14|
+|2|SKUBA|54.13|10.37|17.14|81.65|
+
 |Team Name|Stage 1|Clean the Table|Restaurant|Stickler for the Rules|EGPSR|Score Stage 1+2|
 |---|---|---|---|---|---|---|
 |SinfonIA|296.30||0|500|150|946.30|
